@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hello there 👋
 
-My name is John Gooch , and I'm an SRE from the US.
+My name is John Gooch , and I'm an Site Reliability Engineer from the US.
 
 - 🔭 I’m currently working on a video download service using Python and Flask.  
 - 🌱 I’m currently learning Ansilbe, Docker, and Python.
