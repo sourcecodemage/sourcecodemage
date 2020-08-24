@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 [github]: https://github.com/majorgear
 
 <!-- github stats -->
-![John's github stats](https://github-readme-stats.vercel.app/api?username=majorgear&show_icons=true)
+![John's github stats](https://github-readme-stats.vercel.app/api?username=majorgear&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
 <a href="https://github.com/majorgear/python_scripts">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=majorgear&repo=python_scripts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
