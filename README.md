@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <!-- [twitter.icon]: assets/twitter_icon.png (twitter icon without padding) -->
 [twitter.icon]:  https://github.com/majorgear/majorgear/blob/master/assets/twitter_icon.png (twitter icon without padding)
-[linkedin.icon]: /assets/linkedin_icon.png (LinkedIn icon without padding)
+[linkedin.icon]: https://github.com/majorgear/majorgear/blob/master/assets/linkedin_icon.png (LinkedIn icon without padding)
 
 <!-- Links to your social media accounts -->
 
