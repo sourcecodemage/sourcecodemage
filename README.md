@@ -71,8 +71,8 @@ Here are some ideas to get you started:
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=majorgear&repo=python_scripts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/majorgear/flask_blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=majorgear&repo=flask_blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/majorgear/photos_utils">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=majorgear&repo=photos_utils&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- Resources -->
