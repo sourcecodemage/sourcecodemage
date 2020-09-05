@@ -10,7 +10,7 @@ My name is John Gooch , and I'm an Site Reliability Engineer from the US.
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Gears of Geek](https://www.gearsofgeek.com).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [Major Gear Blog](https://majorgear.tech).
 
 
 
