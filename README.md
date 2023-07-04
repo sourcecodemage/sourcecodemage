@@ -53,7 +53,7 @@ Here are some ideas to get you started:
 [linkedin.icon]: https://github.com/majorgear/majorgear/blob/master/assets/linkedin_icon.png (LinkedIn icon without padding)
 <!-- Links to your social media accounts -->
 
-[twitter]: https://twitter.com/themajorgear
+[twitter]: https://twitter.com/majorgear118907
 [linkedin]: https://www.linkedin.com/in/jagooch/
 [github]: https://github.com/majorgear
 
