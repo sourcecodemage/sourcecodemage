@@ -3,14 +3,14 @@
 My name is John Gooch , and I'm an Site Reliability Engineer from the US.
 
 - 🔭 I’m currently working on a video download service using Python and Flask.  
-- 🌱 I’m currently learning Ansilbe, Docker, and Python.
+- 🌱 I’m currently learning Ansible, Docker, Go, and Python.
 - 📫 You can find me on [![Twitter][twitter.icon]][twitter], or on [![LinkedIn][linkedin.icon]][linkedin].
 - ⚡ Fun fact: I love to play Soccer and the Piano.
 
 
 ## &#x270d; Blog & Writing
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [Major Gear Blog](https://majorgear.tech).
+Apart from coding, I also maintain a blog - you can find my articles on my website at [Source Code Mage Blog](https://blog.sourcecodemage.io).
 
 
 
@@ -31,7 +31,7 @@ Apart from coding, I also maintain a blog - you can find my articles on my websi
 
 
 <!--
-**majorgear/majorgear** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**sourcecodemage/sourcecodemage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -49,30 +49,30 @@ Here are some ideas to get you started:
 
 <!-- Icons -->
 
-[twitter.icon]:  https://github.com/majorgear/majorgear/blob/master/assets/twitter_icon.png (twitter icon without padding)
-[linkedin.icon]: https://github.com/majorgear/majorgear/blob/master/assets/linkedin_icon.png (LinkedIn icon without padding)
+[twitter.icon]:  https://github.com/sourcecodemage/sourcecodemage/blob/master/assets/twitter_icon.png (twitter icon without padding)
+[linkedin.icon]: https://github.com/sourcecodemage/sourcecodemage/blob/master/assets/linkedin_icon.png (LinkedIn icon without padding)
 <!-- Links to your social media accounts -->
 
-[twitter]: https://twitter.com/majorgear118907
+[twitter]: https://twitter.com/sourcecodemage
 [linkedin]: https://www.linkedin.com/in/jagooch/
-[github]: https://github.com/majorgear
+[github]: https://github.com/sourcecodemage
 
 <!-- github stats -->
 ## &#x1f4c8; GitHub Stats
 
-![John's github stats](https://github-readme-stats.vercel.app/api?username=majorgear&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
+![John's github stats](https://github-readme-stats.vercel.app/api?username=sourcecodemage&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21)
 
- <a href="https://github.com/majorgear/flask_blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=majorgear&repo=flask_blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+ <a href="https://github.com/sourcecodemage/flask_blog">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourcecodemage&repo=flask_blog&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/majorgear/python_scripts">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=majorgear&repo=python_scripts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/sourcecodemage/python_scripts">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourcecodemage&repo=python_scripts&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
-<a href="https://github.com/majorgear/photos_utils">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=majorgear&repo=photos_utils&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/sourcecodemage/photos_utils">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=sourcecodemage&repo=photos_utils&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 <!-- Resources -->
