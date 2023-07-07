@@ -5,7 +5,7 @@ My name is John Gooch , and I'm an Site Reliability Engineer from the US.
 - 🔭 I’m currently working on a video download service using Python and Flask.  
 - 🌱 I’m currently learning Ansible, Docker, Go, and Python.
 - 📫 You can find me on [![Twitter][twitter.icon]][twitter], or on [![LinkedIn][linkedin.icon]][linkedin].
-- ⚡ Fun fact: I love to play Soccer and the Piano.
+- ⚡ Fun facts: I love to play Soccer and play the piano. I speak several languages.
 
 
 ## &#x270d; Blog & Writing
